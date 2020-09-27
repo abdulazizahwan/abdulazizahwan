@@ -18,6 +18,11 @@ Hello, I'm Abdul Aziz Ahwan, an Android-dev, Flutter & Front End Web Enthusiast 
 - 👨‍💻 I’m currently working on project [DigiCollabs](https://github.com/digicollabs/digicollabs-web)
 - 📚 I’m currently learning FrontEnd Framework & Flutter
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulazizahwan&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/>
+
+<br/>
+<br/>
+
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -33,6 +38,6 @@ Hello, I'm Abdul Aziz Ahwan, an Android-dev, Flutter & Front End Web Enthusiast 
 
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdulazizahwan&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/>
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizahwan&layout=compact&theme=algolia"/>
