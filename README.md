@@ -1,12 +1,12 @@
 ### Hi World 🌍, I'm [Abdul Aziz Ahwan!](https://abdulazizahwan.com) 👋
 
 <a href="https://youtube.com/abdulazizahwanID">
-  <img align="left" alt="Abdul Aziz Ahwan | YouTube" width="24px" src="/assets/youtube.svg" style="margin-right:6px;"/>
+  <img align="left" alt="Abdul Aziz Ahwan | YouTube" width="24px" src="/assets/youtube.svg" style="margin-right:2px;"/>
 </a>
 <a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Abdul Aziz Ahwan  | Twitter" width="24px" src="/assets/twitter.svg" style="margin-right:6px;"/>
+  <img align="left" alt="Abdul Aziz Ahwan  | Twitter" width="24px" src="/assets/twitter.svg" style="margin-right:2px;"/>
 </a>
-<a href="https://discord.gg/VK4k3Br">
+<a href="https://discord.com/invite/aNEPJcP">
   <img align="left" alt="Abdul Aziz Ahwan's Discord" width="24px" src="/assets/discord.svg"/>
 </a>
 
