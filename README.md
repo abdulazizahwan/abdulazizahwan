@@ -1,3 +1,37 @@
-### Hello World 👋
+### Hi World 🌍, I'm [Abdul Aziz Ahwan!](https://abdulazizahwan.com) 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdulazizahwan&&show_icons=true&title_color=ffffff&icon_color=FFC83D&text_color=ffffff&bg_color=017CFE">
+<a href="https://youtube.com/abdulazizahwanID">
+  <img align="left" alt="Abdul Aziz Ahwan | YouTube" width="24px" src="/assets/youtube.svg" style="margin-right:6px;"/>
+</a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="Abdul Aziz Ahwan  | Twitter" width="24px" src="/assets/twitter.svg" style="margin-right:6px;"/>
+</a>
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="Abdul Aziz Ahwan's Discord" width="24px" src="/assets/discord.svg"/>
+</a>
+
+<br />
+<br />
+
+Hello, I'm Abdul Aziz Ahwan, an Android-dev, Flutter & Front End Web Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>.
+
+- 👨‍💻 I’m currently working on project [DigiCollabs](https://github.com/digicollabs/digicollabs-web)
+- 📚 I’m currently learning FrontEnd Framework & Flutter
+
+**Languages and Tools:**
+
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+<br/>
+<br/>
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+<br/>
+<br/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdulazizahwan&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats" style="margin-right:12px" width="50%"/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizahwan&layout=compact&theme=algolia" width="42%"/>
