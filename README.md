@@ -36,6 +36,4 @@ Hello, I'm Abdul Aziz Ahwan, an Android-dev, Flutter & Front End Web Enthusiast 
 
 <br/>
 
-
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizahwan&layout=compact&theme=algolia"/>
