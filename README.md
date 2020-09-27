@@ -3,7 +3,7 @@
 <a href="https://youtube.com/abdulazizahwanID">
   <img align="left" alt="Abdul Aziz Ahwan | YouTube" width="24px" src="/assets/youtube.svg"/>
 </a>
-<a href="https://twitter.com/anuraghazru">
+<a href="https://twitter.com/abdulazizahwan">
   <img align="left" alt="Abdul Aziz Ahwan  | Twitter" width="24px" src="/assets/twitter.svg"/>
 </a>
 <a href="https://discord.com/invite/aNEPJcP">
