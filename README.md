@@ -1,4 +1,4 @@
-### Hi World 🌍, I'm [Abdul Aziz Ahwan!](https://abdulazizahwan.com) 👋
+### Hello World 🌍, I'm [Abdul Aziz Ahwan!](https://abdulazizahwan.com) 👋
 
 <a href="https://youtube.com/abdulazizahwanID">
   <img align="left" alt="Abdul Aziz Ahwan | YouTube" width="24px" src="/assets/youtube.svg"/>
@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hello, I'm Abdul Aziz Ahwan, an Android-dev, Flutter & Front End Web Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>.
+I am an Android-dev, Flutter & Front End Web Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>.
 
 - 👨‍💻 I’m currently working on project [DigiCollabs](https://github.com/digicollabs/digicollabs-web)
 - 📚 I’m currently learning FrontEnd Framework & Flutter
