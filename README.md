@@ -1,4 +1,4 @@
-### Hello World 🌍, I'm [Abdul Aziz Ahwan!](https://abdulazizahwan.com) 👋
+### Hello World 🌍 I'm [Abdul Aziz Ahwan!](https://abdulazizahwan.com) 👋
 
 <a href="https://youtube.com/abdulazizahwanID">
   <img align="left" alt="Abdul Aziz Ahwan | YouTube" width="24px" src="/assets/youtube.svg"/>
