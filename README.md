@@ -13,7 +13,7 @@
 <br />
 <br />
 
-I am an Flutter & Front End Web Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
+I am a Flutter & Front End Web Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
 
 - 👨‍💻 I’m currently working on project [DigiCollabs](https://github.com/digicollabs/digicollabs-web)
 - 📚 I’m currently learning FrontEnd Framework & Flutter
