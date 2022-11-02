@@ -16,7 +16,7 @@
 I am a Flutter & Front End Web Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
 
 - 📚 I’m currently learning FrontEnd Framework & Flutter
-- 📚 I'm currently learning BackEnd Framework like Nodejs & PostgreSQL
+- 📚 I'm currently learning BackEnd Framework like Nodejs, Go language& PostgreSQL
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulazizahwan&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/>
 <br/>
