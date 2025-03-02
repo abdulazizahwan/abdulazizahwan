@@ -13,7 +13,7 @@
 <br />
 <br />
 
-I am a Flutter & Front End Web Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
+I am a Tech Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
 
 - 📚 I’m currently learning FrontEnd Framework & Flutter
 - 📚 I'm currently learning BackEnd Framework like Nodejs, Go language & PostgreSQL
